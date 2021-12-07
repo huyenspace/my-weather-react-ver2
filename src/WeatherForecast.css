@@ -1,6 +1,10 @@
 .WeatherForecast {
-  color: white;
+  color: darkblue;
   text-align: center;
+  background-color: goldenrod;
+  border-radius: 5px;
+  font-size: 19px;
+  padding: 5px;
 }
 .WeatherForecast-temperature-min {
   opacity: 0.6;
